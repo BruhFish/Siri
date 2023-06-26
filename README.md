@@ -1,2 +1,24 @@
 # Siri
 Repository of the discord Siri bot that you all use and love 💛💙 
+
+
+# Siri Privacy Policy overview
+Siri is a fun, utility, and moderation bot for Discord that allows server staff to carry out moderator actions (warn, mute, kick, ban, clean messages, view user information, etc.), keep records of infractions, post detailed logs on logging channels, and set up systems such as reaction roles.
+
+# Stored data
+When Siri is used by a server, the following categories data can be stored by the bot. The specific categories of data saved for each server depends on how the server has configured Siri.
+
+- Recent messages and username/nickname changes of users engaged on the server.
+- Recent bulk deleted messages.
+- Basic user information, moderator-entered text, and relevant message archives for case records.
+- A subset of previously held roles and nicknames on the server to be restored when a user rejoins.
+
+# Data retention
+- Recent messages are stored for 24h.
+- Deleted messages within this 24h are cleared 5 minutes after deletion,
+- 5 most recent usernames and 10 most recent nicknames of users engaged in chat or voice channels are stored for 30 days.
+- Archives of bulk-deleted messages are stored for 30 days.
+- Infraction record data is kept until the server stops using Siri unless explicitly deleted.
+
+# Data access and deletion requests
+To request access to personal data stored about you, or to request its deletion, to the extent permitted by GDPR, please send an email to bruhfish1@gmail.com.
